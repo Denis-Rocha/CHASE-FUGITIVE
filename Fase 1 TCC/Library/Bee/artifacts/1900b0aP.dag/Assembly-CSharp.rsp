@@ -349,6 +349,7 @@
 "Assets/Scripts/Inimigo.cs"
 "Assets/Scripts/InimigoMovimentoECombate.cs"
 "Assets/Scripts/LoadNextSceneOnTrigger.cs"
+"Assets/Scripts/menuPrincipalManager.cs"
 "Assets/Scripts/MinimapFollow.cs"
 "Assets/Scripts/MoveAndRevealObjects.cs"
 "Assets/Scripts/MoveToTarget.cs"

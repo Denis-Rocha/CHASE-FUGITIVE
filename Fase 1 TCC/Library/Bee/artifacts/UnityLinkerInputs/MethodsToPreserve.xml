@@ -1,5 +1,11 @@
 <linker>
 	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="menuPrincipalManager">
+			<method name="AbrirOpcoes"/>
+			<method name="FecharOpcoes"/>
+			<method name="Jogar"/>
+			<method name="SairJogo"/>
+		</type>
 		<type fullname="PauseMenu">
 			<method name="CloseSettings"/>
 			<method name="CloseSettings"/>

@@ -30,7 +30,8 @@
             "usedInScenes": [
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
-                "Assets/Scenes/FASE3.unity"
+                "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
         {
@@ -55,7 +56,8 @@
             "usedInScenes": [
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
-                "Assets/Scenes/FASE3.unity"
+                "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
         {
@@ -94,13 +96,21 @@
             "usedInScenes": [
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
-                "Assets/Scenes/FASE3.unity"
+                "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
         {
             "managedAssemblyName": "Assembly-CSharp.dll",
             "nativeClass": "",
             "fullManagedTypeName": "LoadNextSceneOnTrigger",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "menuPrincipalManager",
             "moduleName": "",
             "usedInScenes": []
         },
@@ -133,7 +143,8 @@
             "usedInScenes": [
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
-                "Assets/Scenes/FASE3.unity"
+                "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
         {
@@ -151,7 +162,8 @@
             "usedInScenes": [
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
-                "Assets/Scenes/FASE3.unity"
+                "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
         {
@@ -327,7 +339,8 @@
             "usedInScenes": [
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
-                "Assets/Scenes/FASE3.unity"
+                "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
         {
@@ -396,8 +409,42 @@
         },
         {
             "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "AudioResource",
+            "fullManagedTypeName": "UnityEngine.Audio.AudioResource",
+            "moduleName": "Audio",
+            "usedInScenes": [
+                "Assets/Scenes/FASE1.unity",
+                "Assets/Scenes/FASE2.unity",
+                "Assets/Scenes/FASE3.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "SampleClip",
+            "fullManagedTypeName": "UnityEngine.Audio.AudioResource",
+            "moduleName": "Audio",
+            "usedInScenes": [
+                "Assets/Scenes/FASE1.unity",
+                "Assets/Scenes/FASE2.unity",
+                "Assets/Scenes/FASE3.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
             "nativeClass": "AudioBehaviour",
             "fullManagedTypeName": "UnityEngine.AudioBehaviour",
+            "moduleName": "Audio",
+            "usedInScenes": [
+                "Assets/Scenes/FASE1.unity",
+                "Assets/Scenes/FASE2.unity",
+                "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/MenuPrincipal.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "AudioClip",
+            "fullManagedTypeName": "UnityEngine.AudioClip",
             "moduleName": "Audio",
             "usedInScenes": [
                 "Assets/Scenes/FASE1.unity",
@@ -409,6 +456,18 @@
             "managedAssemblyName": "UnityEngine.dll",
             "nativeClass": "AudioListener",
             "fullManagedTypeName": "UnityEngine.AudioListener",
+            "moduleName": "Audio",
+            "usedInScenes": [
+                "Assets/Scenes/FASE1.unity",
+                "Assets/Scenes/FASE2.unity",
+                "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/MenuPrincipal.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "AudioSource",
+            "fullManagedTypeName": "UnityEngine.AudioSource",
             "moduleName": "Audio",
             "usedInScenes": [
                 "Assets/Scenes/FASE1.unity",
@@ -433,7 +492,8 @@
             "usedInScenes": [
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
-                "Assets/Scenes/FASE3.unity"
+                "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
         {
@@ -455,7 +515,8 @@
             "usedInScenes": [
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
-                "Assets/Scenes/FASE3.unity"
+                "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
         {
@@ -466,7 +527,8 @@
             "usedInScenes": [
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
-                "Assets/Scenes/FASE3.unity"
+                "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
         {
@@ -477,7 +539,8 @@
             "usedInScenes": [
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
-                "Assets/Scenes/FASE3.unity"
+                "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
         {
@@ -521,7 +584,8 @@
             "usedInScenes": [
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
-                "Assets/Scenes/FASE3.unity"
+                "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
         {
@@ -542,7 +606,8 @@
             "usedInScenes": [
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
-                "Assets/Scenes/FASE3.unity"
+                "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
         {
@@ -576,7 +641,8 @@
             "usedInScenes": [
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
-                "Assets/Scenes/FASE3.unity"
+                "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
         {
@@ -587,7 +653,8 @@
             "usedInScenes": [
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
-                "Assets/Scenes/FASE3.unity"
+                "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
         {
@@ -598,7 +665,8 @@
             "usedInScenes": [
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
-                "Assets/Scenes/FASE3.unity"
+                "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
         {
@@ -609,7 +677,8 @@
             "usedInScenes": [
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
-                "Assets/Scenes/FASE3.unity"
+                "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
         {
@@ -620,7 +689,8 @@
             "usedInScenes": [
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
-                "Assets/Scenes/FASE3.unity"
+                "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
         {
@@ -675,7 +745,8 @@
             "usedInScenes": [
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
-                "Assets/Scenes/FASE3.unity"
+                "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
         {
@@ -697,7 +768,8 @@
             "usedInScenes": [
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
-                "Assets/Scenes/FASE3.unity"
+                "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
         {
@@ -715,7 +787,8 @@
             "usedInScenes": [
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
-                "Assets/Scenes/FASE3.unity"
+                "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
         {
@@ -856,7 +929,8 @@
             "usedInScenes": [
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
-                "Assets/Scenes/FASE3.unity"
+                "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
         {
@@ -897,7 +971,8 @@
             "usedInScenes": [
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
-                "Assets/Scenes/FASE3.unity"
+                "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
         {
@@ -928,7 +1003,8 @@
             "usedInScenes": [
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
-                "Assets/Scenes/FASE3.unity"
+                "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
         {
@@ -939,7 +1015,8 @@
             "usedInScenes": [
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
-                "Assets/Scenes/FASE3.unity"
+                "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
         {
@@ -950,7 +1027,8 @@
             "usedInScenes": [
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
-                "Assets/Scenes/FASE3.unity"
+                "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
         {
@@ -961,7 +1039,8 @@
             "usedInScenes": [
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
-                "Assets/Scenes/FASE3.unity"
+                "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
         {
@@ -972,7 +1051,8 @@
             "usedInScenes": [
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
-                "Assets/Scenes/FASE3.unity"
+                "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
         {
