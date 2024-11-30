@@ -8,6 +8,11 @@ public class menuPrincipalManager : MonoBehaviour
     [SerializeField] private string nomeDoLevelDeJogo;
     [SerializeField] private GameObject painelMenuInicial;
     [SerializeField] private GameObject painelOpcoes;
+    public void VoltarMenu()
+
+    {
+        SceneManager.LoadScene("MenuPrincipal");
+    }
     public void Jogar()
     {
         SceneManager.LoadScene(nomeDoLevelDeJogo);

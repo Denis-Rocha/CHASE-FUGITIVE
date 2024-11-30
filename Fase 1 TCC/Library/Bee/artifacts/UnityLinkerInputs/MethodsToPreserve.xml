@@ -5,17 +5,12 @@
 			<method name="FecharOpcoes"/>
 			<method name="Jogar"/>
 			<method name="SairJogo"/>
+			<method name="VoltarMenu"/>
 		</type>
 		<type fullname="PauseMenu">
-			<method name="CloseSettings"/>
-			<method name="CloseSettings"/>
-			<method name="CloseSettings"/>
 			<method name="LoadMainMenu"/>
 			<method name="LoadMainMenu"/>
 			<method name="LoadMainMenu"/>
-			<method name="OpenSettings"/>
-			<method name="OpenSettings"/>
-			<method name="OpenSettings"/>
 			<method name="RestartLevel"/>
 			<method name="RestartLevel"/>
 			<method name="RestartLevel"/>

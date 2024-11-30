@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class FimFase3 : MonoBehaviour
 {
@@ -16,13 +17,18 @@ public class FimFase3 : MonoBehaviour
     {
         if (GetComponent<Inimigo>().VidaInimigo <= 0)
         {
-            camera[0].SetActive(false);
-            camera[1].SetActive(true);
-            player.GetComponent<Animator>().SetBool("dancando", true);
+            StartCoroutine(FimDeJogo());
         }
+    }
+    IEnumerator FimDeJogo()
+    {
+        camera[0].SetActive(false);
+        camera[1].SetActive(true);
+        player.GetComponent<Animator>().SetBool("dancando", true);
 
+        yield return new WaitForSeconds(5f);
 
-
+        SceneManager.LoadScene("FimDeJogo");
     }
 }
 
