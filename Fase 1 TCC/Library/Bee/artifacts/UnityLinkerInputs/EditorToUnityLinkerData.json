@@ -29,6 +29,8 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
@@ -64,6 +66,8 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
@@ -106,6 +110,8 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
@@ -137,6 +143,13 @@
         {
             "managedAssemblyName": "Assembly-CSharp.dll",
             "nativeClass": "",
+            "fullManagedTypeName": "ModeCur",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
             "fullManagedTypeName": "MoveToTarget",
             "moduleName": "",
             "usedInScenes": []
@@ -155,6 +168,8 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
@@ -176,6 +191,8 @@
             "moduleName": "AI",
             "usedInScenes": [
                 "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
@@ -317,6 +334,13 @@
             "usedInScenes": []
         },
         {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "TransicoesTemp",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
             "managedAssemblyName": "UnityEngine.dll",
             "nativeClass": "AnimatorController",
             "fullManagedTypeName": "UnityEditor.Animations.AnimatorController",
@@ -356,6 +380,8 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
@@ -458,6 +484,8 @@
             "moduleName": "Audio",
             "usedInScenes": [
                 "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
@@ -483,6 +511,8 @@
             "moduleName": "Audio",
             "usedInScenes": [
                 "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
@@ -517,6 +547,8 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
@@ -542,6 +574,8 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
@@ -556,6 +590,8 @@
             "moduleName": "UI",
             "usedInScenes": [
                 "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
@@ -570,6 +606,8 @@
             "moduleName": "UI",
             "usedInScenes": [
                 "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
@@ -617,6 +655,8 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
@@ -641,6 +681,8 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
@@ -690,6 +732,8 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
@@ -704,6 +748,8 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
@@ -718,6 +764,8 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
@@ -732,6 +780,8 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
@@ -789,6 +839,8 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
@@ -815,6 +867,8 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
@@ -836,6 +890,8 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
@@ -980,6 +1036,8 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
@@ -993,6 +1051,8 @@
             "fullManagedTypeName": "UnityEngine.RenderTexture",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE3.unity",
                 "Assets/Scenes/FimDeJogo.unity"
             ]
@@ -1026,6 +1086,8 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
@@ -1073,6 +1135,8 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
@@ -1087,6 +1151,8 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
@@ -1101,6 +1167,8 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
@@ -1115,6 +1183,8 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
@@ -1177,6 +1247,8 @@
             "fullManagedTypeName": "UnityEngine.Video.VideoClip",
             "moduleName": "Video",
             "usedInScenes": [
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FimDeJogo.unity"
             ]
         },
@@ -1186,6 +1258,8 @@
             "fullManagedTypeName": "UnityEngine.Video.VideoPlayer",
             "moduleName": "Video",
             "usedInScenes": [
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FimDeJogo.unity"
             ]
         }

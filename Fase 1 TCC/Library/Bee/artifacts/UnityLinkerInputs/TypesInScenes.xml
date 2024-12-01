@@ -10,6 +10,7 @@
 		<type fullname="LoadNextSceneOnTrigger" preserve="nothing"/>
 		<type fullname="menuPrincipalManager" preserve="nothing"/>
 		<type fullname="MinimapFollow" preserve="nothing"/>
+		<type fullname="ModeCur" preserve="nothing"/>
 		<type fullname="MoveToTarget" preserve="nothing"/>
 		<type fullname="PauseMenu" preserve="nothing"/>
 		<type fullname="PlayerCombat" preserve="nothing"/>
@@ -20,6 +21,7 @@
 		<type fullname="Senha" preserve="nothing"/>
 		<type fullname="StatueMovement" preserve="nothing"/>
 		<type fullname="TelaInicial" preserve="nothing"/>
+		<type fullname="TransicoesTemp" preserve="nothing"/>
 	</assembly>
 	<assembly fullname="Unity.Postprocessing.Runtime">
 		<type fullname="UnityEngine.Rendering.PostProcessing.AmbientOcclusion" preserve="nothing"/>
