@@ -12,13 +12,15 @@ public class PlayerCombat : MonoBehaviour
 
 
 
-    public void Atacar(){
-        if (enemyInRange) {
-            currentEnemy.GetComponent<Inimigo>().VidaInimigo-=damage;
-            
+    public void Atacar()
+    {
+        if (enemyInRange)
+        {
+            currentEnemy.GetComponent<Inimigo>().VidaInimigo -= damage;
+
         }
-    
-    } 
+
+    }
 
 
     void OnCollisionStay(Collision collision)
@@ -32,7 +34,7 @@ public class PlayerCombat : MonoBehaviour
         }
     }
 
-     void OnCollisionExit(Collision collision)
+    void OnCollisionExit(Collision collision)
     {
         // Verifica se o objeto que saiu da área tem a tag "Inimigo"
         if (collision.gameObject.CompareTag("inimigo"))

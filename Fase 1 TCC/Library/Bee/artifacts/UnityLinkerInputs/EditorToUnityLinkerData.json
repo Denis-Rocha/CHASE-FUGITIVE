@@ -28,11 +28,22 @@
             "fullManagedTypeName": "",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/FimDeJogo.unity",
                 "Assets/Scenes/MenuPrincipal.unity"
             ]
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "EndSceneController",
+            "moduleName": "",
+            "usedInScenes": []
         },
         {
             "managedAssemblyName": "Assembly-CSharp.dll",
@@ -54,9 +65,13 @@
             "fullManagedTypeName": "",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/FimDeJogo.unity",
                 "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
@@ -94,9 +109,13 @@
             "fullManagedTypeName": "",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/FimDeJogo.unity",
                 "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
@@ -124,6 +143,13 @@
         {
             "managedAssemblyName": "Assembly-CSharp.dll",
             "nativeClass": "",
+            "fullManagedTypeName": "ModeCur",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
             "fullManagedTypeName": "MoveToTarget",
             "moduleName": "",
             "usedInScenes": []
@@ -141,9 +167,13 @@
             "fullManagedTypeName": "",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/FimDeJogo.unity",
                 "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
@@ -160,9 +190,13 @@
             "fullManagedTypeName": "",
             "moduleName": "AI",
             "usedInScenes": [
+                "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/FimDeJogo.unity",
                 "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
@@ -300,11 +334,19 @@
             "usedInScenes": []
         },
         {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "TransicoesTemp",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
             "managedAssemblyName": "UnityEngine.dll",
             "nativeClass": "AnimatorController",
             "fullManagedTypeName": "UnityEditor.Animations.AnimatorController",
             "moduleName": "Animation",
             "usedInScenes": [
+                "Assets/Scenes/Creditos.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity"
@@ -337,9 +379,13 @@
             "fullManagedTypeName": "UnityEditor.MonoScript",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/FimDeJogo.unity",
                 "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
@@ -391,6 +437,7 @@
             "fullManagedTypeName": "UnityEngine.AnimationClip",
             "moduleName": "Animation",
             "usedInScenes": [
+                "Assets/Scenes/Creditos.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity"
@@ -402,6 +449,7 @@
             "fullManagedTypeName": "UnityEngine.Animator",
             "moduleName": "Animation",
             "usedInScenes": [
+                "Assets/Scenes/Creditos.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity"
@@ -435,9 +483,13 @@
             "fullManagedTypeName": "UnityEngine.AudioBehaviour",
             "moduleName": "Audio",
             "usedInScenes": [
+                "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/FimDeJogo.unity",
                 "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
@@ -458,9 +510,13 @@
             "fullManagedTypeName": "UnityEngine.AudioListener",
             "moduleName": "Audio",
             "usedInScenes": [
+                "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/FimDeJogo.unity",
                 "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
@@ -490,9 +546,13 @@
             "fullManagedTypeName": "UnityEngine.Behaviour",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/FimDeJogo.unity",
                 "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
@@ -513,9 +573,13 @@
             "fullManagedTypeName": "UnityEngine.Camera",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/FimDeJogo.unity",
                 "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
@@ -525,9 +589,13 @@
             "fullManagedTypeName": "UnityEngine.Canvas",
             "moduleName": "UI",
             "usedInScenes": [
+                "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/FimDeJogo.unity",
                 "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
@@ -537,9 +605,13 @@
             "fullManagedTypeName": "UnityEngine.CanvasRenderer",
             "moduleName": "UI",
             "usedInScenes": [
+                "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/FimDeJogo.unity",
                 "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
@@ -582,9 +654,13 @@
             "fullManagedTypeName": "UnityEngine.Component",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/FimDeJogo.unity",
                 "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
@@ -604,9 +680,13 @@
             "fullManagedTypeName": "UnityEngine.Cubemap",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/FimDeJogo.unity",
                 "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
@@ -651,9 +731,13 @@
             "fullManagedTypeName": "UnityEngine.GameObject",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/FimDeJogo.unity",
                 "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
@@ -663,9 +747,13 @@
             "fullManagedTypeName": "UnityEngine.Light",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/FimDeJogo.unity",
                 "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
@@ -675,9 +763,13 @@
             "fullManagedTypeName": "UnityEngine.LightmapSettings",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/FimDeJogo.unity",
                 "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
@@ -687,9 +779,13 @@
             "fullManagedTypeName": "UnityEngine.Material",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/FimDeJogo.unity",
                 "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
@@ -710,7 +806,6 @@
             "fullManagedTypeName": "UnityEngine.MeshCollider",
             "moduleName": "Physics",
             "usedInScenes": [
-                "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity"
             ]
@@ -743,9 +838,13 @@
             "fullManagedTypeName": "UnityEngine.MonoBehaviour",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/FimDeJogo.unity",
                 "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
@@ -755,6 +854,7 @@
             "fullManagedTypeName": "UnityEngine.Motion",
             "moduleName": "Animation",
             "usedInScenes": [
+                "Assets/Scenes/Creditos.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity"
@@ -766,9 +866,13 @@
             "fullManagedTypeName": "UnityEngine.Object",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/FimDeJogo.unity",
                 "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
@@ -785,9 +889,13 @@
             "fullManagedTypeName": "UnityEngine.RectTransform",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/FimDeJogo.unity",
                 "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
@@ -927,9 +1035,13 @@
             "fullManagedTypeName": "UnityEngine.RenderSettings",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/FimDeJogo.unity",
                 "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
@@ -939,7 +1051,10 @@
             "fullManagedTypeName": "UnityEngine.RenderTexture",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/Scenes/FASE3.unity"
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
+                "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/FimDeJogo.unity"
             ]
         },
         {
@@ -958,6 +1073,7 @@
             "fullManagedTypeName": "UnityEngine.RuntimeAnimatorController",
             "moduleName": "Animation",
             "usedInScenes": [
+                "Assets/Scenes/Creditos.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity"
@@ -969,9 +1085,13 @@
             "fullManagedTypeName": "UnityEngine.Shader",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/FimDeJogo.unity",
                 "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
@@ -1001,6 +1121,7 @@
             "fullManagedTypeName": "UnityEngine.Sprite",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/Creditos.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
@@ -1013,9 +1134,13 @@
             "fullManagedTypeName": "UnityEngine.TextAsset",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/FimDeJogo.unity",
                 "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
@@ -1025,9 +1150,13 @@
             "fullManagedTypeName": "UnityEngine.Texture",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/FimDeJogo.unity",
                 "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
@@ -1037,9 +1166,13 @@
             "fullManagedTypeName": "UnityEngine.Texture2D",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/FimDeJogo.unity",
                 "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
@@ -1049,9 +1182,13 @@
             "fullManagedTypeName": "UnityEngine.Transform",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/FimDeJogo.unity",
                 "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
@@ -1086,6 +1223,13 @@
         {
             "managedAssemblyName": "UnityEngine.UI.dll",
             "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.RawImage",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
             "fullManagedTypeName": "UnityEngine.UI.Slider",
             "moduleName": "",
             "usedInScenes": []
@@ -1096,6 +1240,28 @@
             "fullManagedTypeName": "UnityEngine.UI.Text",
             "moduleName": "",
             "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "VideoClip",
+            "fullManagedTypeName": "UnityEngine.Video.VideoClip",
+            "moduleName": "Video",
+            "usedInScenes": [
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
+                "Assets/Scenes/FimDeJogo.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "VideoPlayer",
+            "fullManagedTypeName": "UnityEngine.Video.VideoPlayer",
+            "moduleName": "Video",
+            "usedInScenes": [
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
+                "Assets/Scenes/FimDeJogo.unity"
+            ]
         }
     ],
     "allNativeTypes": [

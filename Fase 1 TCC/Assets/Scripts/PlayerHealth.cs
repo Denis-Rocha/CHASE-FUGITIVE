@@ -30,7 +30,7 @@ public class PlayerHealth : MonoBehaviour
         GetComponent<Animator>().SetBool("morrendo", true);
         GetComponent<Animator>().SetBool("correndo", false);
 
-        yield return new WaitForSeconds(5f);
-        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        yield return new WaitForSeconds(1f);
+        SceneManager.LoadScene("Cutscene2");
     }
 }

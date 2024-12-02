@@ -1,6 +1,7 @@
 <linker>
 	<assembly fullname="Assembly-CSharp">
 		<type fullname="DistanciaChave" preserve="nothing"/>
+		<type fullname="EndSceneController" preserve="nothing"/>
 		<type fullname="EnemyCombat" preserve="nothing"/>
 		<type fullname="FimFase3" preserve="nothing"/>
 		<type fullname="HealthBarUI" preserve="nothing"/>
@@ -9,6 +10,7 @@
 		<type fullname="LoadNextSceneOnTrigger" preserve="nothing"/>
 		<type fullname="menuPrincipalManager" preserve="nothing"/>
 		<type fullname="MinimapFollow" preserve="nothing"/>
+		<type fullname="ModeCur" preserve="nothing"/>
 		<type fullname="MoveToTarget" preserve="nothing"/>
 		<type fullname="PauseMenu" preserve="nothing"/>
 		<type fullname="PlayerCombat" preserve="nothing"/>
@@ -19,6 +21,7 @@
 		<type fullname="Senha" preserve="nothing"/>
 		<type fullname="StatueMovement" preserve="nothing"/>
 		<type fullname="TelaInicial" preserve="nothing"/>
+		<type fullname="TransicoesTemp" preserve="nothing"/>
 	</assembly>
 	<assembly fullname="Unity.Postprocessing.Runtime">
 		<type fullname="UnityEngine.Rendering.PostProcessing.AmbientOcclusion" preserve="nothing"/>
@@ -106,6 +109,8 @@
 		<type fullname="UnityEngine.Texture" preserve="nothing"/>
 		<type fullname="UnityEngine.Texture2D" preserve="nothing"/>
 		<type fullname="UnityEngine.Transform" preserve="nothing"/>
+		<type fullname="UnityEngine.Video.VideoClip" preserve="nothing"/>
+		<type fullname="UnityEngine.Video.VideoPlayer" preserve="nothing"/>
 	</assembly>
 	<assembly fullname="UnityEngine.UI">
 		<type fullname="UnityEngine.EventSystems.EventSystem" preserve="nothing"/>
@@ -114,6 +119,7 @@
 		<type fullname="UnityEngine.UI.CanvasScaler" preserve="nothing"/>
 		<type fullname="UnityEngine.UI.GraphicRaycaster" preserve="nothing"/>
 		<type fullname="UnityEngine.UI.Image" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.RawImage" preserve="nothing"/>
 		<type fullname="UnityEngine.UI.Slider" preserve="nothing"/>
 		<type fullname="UnityEngine.UI.Text" preserve="nothing"/>
 	</assembly>

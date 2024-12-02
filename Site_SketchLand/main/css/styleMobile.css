@@ -1,0 +1,85 @@
+@media(max-width: 1000px){
+    /*Tag container para o menu*/
+    #container_menu{
+        height: 20vw;
+    }
+
+    #btn_tabela_menu{
+        width: 6.5vw;
+        height: 5vw;
+        margin: 3vw 0 0 93vw;
+    }
+
+    #img_menu{
+        width: 12vw;
+    }
+
+
+    #fechar_menu{
+        margin: 8.1vw 0 0 8.8vw;
+        width: 200vw;
+        height: 100vw;
+    }
+
+    #img_fechar{
+        width: 100vw;
+    }
+
+    #sep_logo{
+        height: 10vw;
+    }
+
+    #logo2{
+        margin: 2vw 0 0 4vw;
+        width: 10vw;
+        text-align: left;
+        display: block;
+    }
+
+    /*section para a separação e controle do menu*/
+    #controle_menu{
+        height: 2vw;
+        margin: 1.5vw 0 0 8vw;
+        padding: 1vw 2vw;
+        text-align: right;
+        display: block;
+        width: 70vw;
+        justify-content: space-around;
+    }
+
+    /*Estilização das tags do menu*/
+    .topico{
+        font: normal 2.7vw Arial;
+        padding: 10px 8px 5px 5px;
+        display: inline-flex;
+        user-select:none;
+        transition: 0.4s;
+        color: aliceblue;
+        text-decoration: none;
+    }
+
+    #logo_vertical{
+        width: 70vw;
+        margin: 18vw 0 8vw 0;
+        
+    }
+
+    .troca{
+        width: 6vw;
+        height: 2vw;
+    }
+
+    #btn_trocar{
+        position: absolute;
+        margin-top: 45vw;
+        width: 30vw;
+        height: 4vw;
+    }
+
+    #sobre{
+        height: 40vw;
+        padding-top: 10vw;
+    }
+
+    /*------------------------------------------------------------------------*/
+}

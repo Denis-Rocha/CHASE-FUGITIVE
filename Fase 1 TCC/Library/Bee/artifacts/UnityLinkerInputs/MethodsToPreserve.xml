@@ -1,21 +1,21 @@
 <linker>
 	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
 		<type fullname="menuPrincipalManager">
+			<method name="AbrirFases"/>
 			<method name="AbrirOpcoes"/>
+			<method name="Fase1"/>
+			<method name="Fase2"/>
+			<method name="Fase3"/>
+			<method name="FecharFases"/>
 			<method name="FecharOpcoes"/>
 			<method name="Jogar"/>
 			<method name="SairJogo"/>
+			<method name="VoltarMenu"/>
 		</type>
 		<type fullname="PauseMenu">
-			<method name="CloseSettings"/>
-			<method name="CloseSettings"/>
-			<method name="CloseSettings"/>
 			<method name="LoadMainMenu"/>
 			<method name="LoadMainMenu"/>
 			<method name="LoadMainMenu"/>
-			<method name="OpenSettings"/>
-			<method name="OpenSettings"/>
-			<method name="OpenSettings"/>
 			<method name="RestartLevel"/>
 			<method name="RestartLevel"/>
 			<method name="RestartLevel"/>

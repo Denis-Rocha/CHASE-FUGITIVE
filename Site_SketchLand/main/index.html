@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/styleMobile.css">
+    <script src="js/script.js" defer></script>
+    <link rel="shortcut icon" type="imagex/png" href="img/imagens/logopixel-removebg-preview.png">
+</head>
+<body>
+
+    <nav id="container_menu">
+
+        <section>
+            <a href="#menu"><img id="logo2" src="img/imagens/logo_SketchLand-removebg.png"></a>
+        </section>
+
+        <button id="btn_tabela_menu" onclick="menu()">
+            <img id="img_menu" src="img/icon/menu.png">
+        </button>
+
+      
+        <section id="controle_menu">
+            <a class="topico" href="index.html">Home</a>
+            <a class="topico" href="sobre.html">Sobre nós</a>
+            <a class="topico" href="jogo.html">Chase The Fugitive</a>
+            <a class="topico" href="#Footer">Contato</a>
+            
+
+            <button id="fechar_menu" onclick="fechar_menu()">
+                <img id="img_fechar" src="img/icon/fechar.png">
+                
+            </button>
+        </section>
+
+    </nav>
+
+
+    <section id="menu">
+
+        <section>
+            <video autoplay loop muted playsinline id="logo_vertical">
+                <source src="video/empresa.mp4" type="video/mp4">
+            </video>
+        </section>
+
+       <section id="imagens">
+
+            <section id="container_cabecalho">
+
+                <section id="btn_trocar">
+                    <button class="troca" onclick="troca1()"></button>
+                    <button class="troca" onclick="troca2()"></button>
+                    <button class="troca" onclick="troca3()"></button>
+                </section>
+    
+            </section>
+
+        </section>
+
+
+
+    <section id="Footer">
+        <section id="Footer-container">
+
+            <label id="descr_footer">Conheça nosso ambiente de trabalho, agende sua visita através do nosso email!</label>
+
+            <section id="redes">
+                <a href="https://api.whatsapp.com/send?phone=5511973480334&text=Ol%C3%A1,%20gostaria%20de%20ajuda!" target="blank"><img src="img/icon/i-whatz.png" class="tamanho"></a>
+                <a href="https://www.instagram.com/sket.chland/?utm_source=ig_web_button_share_sheet" target="blank"><img src="img/icon/i-insta.png" class="tamanho"></a>
+                
+            </section>
+
+            <label id="descr_footer2">Visite nossas redes</label>
+
+            <div id="area_mapa">
+                <iframe id="mapa" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.3247724394105!2d-46.72778649999999!3d-23.5208186!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cef8c1d371ec31%3A0x671c9325c275132e!2sETEC%20Prof%C2%B0%20Basilides%20de%20Godoy!5e0!3m2!1spt-BR!2sbr!4v1708795370014!5m2!1spt-BR!2sbr" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+
+        </section>
+
+    </section>
+</body>
+</html>

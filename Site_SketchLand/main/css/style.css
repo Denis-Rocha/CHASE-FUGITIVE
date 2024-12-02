@@ -1,0 +1,408 @@
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: #daeefe; 
+    text-align: center;
+}
+
+/*--------------------MENU--------------------*/
+
+/*Tag container para o menu*/
+#container_menu{     
+    position: fixed;
+    width: 100%;
+    height: 10vw;
+    display: flex;
+    background-image: linear-gradient(to bottom,rgb(4, 213, 250), rgba(53, 193, 228, 0.596), rgba(255, 255, 255, 0));
+    z-index: 1;
+    justify-content: space-between;
+}
+
+#btn_tabela_menu{
+    background-color:rgba(61, 61, 61, 0);
+    width: 2.8vw;
+    height: 2.5vw;
+    margin: 3vw 0 0 93vw;
+    position: fixed;
+    border: none;
+    border-radius: 1vw;
+    display: none;
+}
+
+#img_menu{
+    width: 8vw;
+}
+
+
+#fechar_menu{
+    margin: 8.1vw 0 0 8.8vw;
+    display: block;
+    width: 20vw;
+    height: 10vw;
+    border: none;
+    border-radius: 1vw;
+    background-color: #b84f4f00;
+    display: none;
+}
+
+#img_fechar{
+    width: 10vw;
+}
+
+#sep_logo{
+    height: 1vw;
+}
+
+#logo2{
+    margin: 2vw 0 0 4vw;
+    width: 6vw;
+    text-align: left;
+    display: block;
+}
+
+/*section para a separação e controle do menu*/
+#controle_menu{
+    height: 2vw;
+    margin: 1.5vw 0 0 8vw;
+    padding: 1vw 2vw;
+    text-align: right;
+    display: block;
+    width: 40vw;
+    justify-content: space-around;
+}
+
+/*Estilização das tags do menu*/
+.topico{
+    font: normal 15px Arial;
+    padding: 13px;
+    display: inline-flex;
+    user-select:none;
+    transition: 0.4s;
+    color: aliceblue;
+    text-decoration: none;
+}
+.topico:hover{
+    transition: 0.4s;
+    color: #5697D1;
+    scale:1.1;
+}
+
+/*Fundo*/
+#menu{
+    background-size: 100%;
+    width: 100%;
+    text-align: center;
+    user-select: none;
+}
+
+#logo_vertical{
+    width: 60vw;
+    height:40vw;
+    margin: 6vw 0 6vw 0;
+    
+}
+
+/*------------------------------------------------------------------------*/
+
+.Separacao{
+    display: flex;
+    height: 30vw;
+}
+#Espacamento_menu{
+    padding-top: 1vw;
+}
+.word{
+    font: normal 1.3vw Verdana;
+    color:#00c3ff
+}
+
+
+#img1{
+    margin: 0 0 0 58%;
+}
+
+#img-1{
+    width: 20vw;
+    height: 20vw;
+    border-radius: 1vw;
+}
+
+#text1{
+    position: absolute;
+    margin: 8% 0 0 23%;
+    width: 22vw;
+    height: 20%;
+}
+
+#img2{
+    margin: 1vw 0 0 24%;
+}
+
+#img-2{
+    width: 25vw;
+    height: 25vw;
+    border-radius: 1vw;
+}
+
+#text2{
+    position: absolute;
+    width: 22%;
+    margin: 7% 0 0 55%;
+    height: 20%;
+}
+
+#img3{
+    margin: 0 0 0 50%;
+}
+
+#img-3{
+    border-radius: 1vw;
+    width: 35vw;
+    height: 30vw;
+}
+
+#text3{
+    position: absolute;
+    width: 24%;
+    margin: 10% 0 0 26%;
+    height: 20%;
+}
+
+#Footer{
+    margin-top: 10vw;
+    width: 100%;
+    background-color: rgb(132, 178, 221);
+}
+
+/*Barra de nagação*/
+::-webkit-scrollbar{
+    width: 10px;
+    background-color: rgba(0, 0, 0, 0.849);
+    
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: #5697D1;
+    border-radius: 10px;
+}
+
+
+  /*--------------------DESTAQUE do jogo--------------------*/
+
+#Destaque{
+    width: 100%;
+    height: 40vw;
+    background-color: rgb(255, 255, 255); 
+    text-align: center;
+}
+
+#container_destaque{
+    width: 100%;
+    display:flex;
+    justify-content: center;
+}
+
+#fundo_destaque{
+    position: absolute; 
+    font: bold 10vw Arial;
+    color:  #ff730083;
+    font-size: 80px;
+}
+
+#jogo{
+    margin-top: 4.6%;
+    width: 20%;
+    position:absolute;
+    transition: 1.5s;
+}
+
+#jogo:hover{
+    width: 39%;
+    transition: 0.5s;
+}
+
+#nome_do_jogo{
+    position: absolute;
+    font: normal 1.7vw Arial;
+    color:  #ff730083;
+    margin-top: 24%;
+}
+
+#tabela{
+    display: flex;
+    margin-top: 30%;
+}
+
+.descrição{
+    margin: 20px;
+    background-color: #ff730083;
+    width: 16vw;
+    height:8vw;
+    border-radius: 12px;
+    font: normal 1vw Arial;
+    padding: 50px 20px 0 20px;
+    
+}
+
+td{
+    display:inline-flex;
+    justify-content: space-between;
+}
+
+ /*--------------------imagens passando no cabeçalho--------------------*/
+
+#imagens{
+    width: 100%;
+    height: 50vw;
+    margin-bottom: 8vw;
+}
+
+#container_cabecalho{
+    background-color: #2E2E2E;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    background: url('../img/Carrocel/img1.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% ;
+}
+
+#text{
+    margin: 15vw 0 0 60vw;
+    position: absolute;
+    width: 32vw;
+    justify-content: center;
+    display: flex;
+}
+
+#t1{
+    position: absolute;
+    font: bold 6vw Arial;
+    color:rgb(62, 153, 228);
+}
+
+#t2{
+    position: absolute;
+    font: bold 5.5vw Arial ;
+    color:rgb(62, 153, 228);
+    margin-top: 6vw;
+}
+
+#btn_slide{
+    position: absolute;
+    width: 28vw;
+    height: 3vw;
+    background-color: #5697D1;
+    margin: 15vw 0 0 0;
+    border-radius: 0.5vw;
+    padding-top: 1.4vw;
+    font: bold 1.5vw Arial;
+    color: #ececec;
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+#btn_slide:hover{
+    transition: 0.5s;
+    height: 3.4vw;
+    width: 28.5vw;
+    padding-top: 1.5vw;
+    background-color: #8cc9ff;
+    color:#2E2E2E
+}
+
+.troca{
+    width: 2.8vw;
+    height: 1vw;
+    background-color: #cccccc;
+    border: none;
+    border-radius: 0.2vw;
+    margin: 0 0.5vw 0 0.5vw;
+    transition: 0.5s;
+}
+
+.troca:hover{
+    scale:1.1;
+    background-color: #5697D1;
+    transition: 0.5s;
+}
+
+#btn_trocar{
+    position: absolute;
+    margin-top: 45vw;
+    width: 20vw;
+    height: 4vw;
+}
+
+/*-------------FOOTER--------------*/
+
+#Footer-container{
+    width: 100%;
+    height: 35vw;
+    margin-top: 10vw;
+    background-color: rgb(58, 107, 114); 
+    justify-content: center;
+    display: flex;
+}
+
+#redes{
+    padding: 2vw;
+    position: absolute;
+    margin: 15vw 0 0 45vw;
+}
+
+#descr_footer{
+    position: absolute;
+    margin: 5vw 22vw 0 0;
+    font: normal 1.5vw Arial;
+    color: rgb(235, 235, 235);
+}
+
+.tamanho{
+    transition: 0.5s;
+    width: 3vw;
+    margin: 10px;
+}
+.tamanho:hover{
+    transition: 0.5s;
+    width: 3.5vw;
+    margin: 10px;
+}
+
+#descr_footer2{
+    position: absolute;
+    margin: 13vw 0 0 45vw;
+    font: normal 1.8vw Arial;
+    color: rgb(235, 235, 235);
+}
+
+#area_mapa{
+    margin: 10vw 20vw 0 0;
+}
+
+#mapa{
+    width: 40vw;
+    height:20vw;
+    border-radius: 10px;
+    border: none
+}
+/*---------------BTN para voltar-----------------*/
+
+#container-catalogos{
+    width: 100%;
+    text-align: right;
+    display: flex;
+}
+
+#voltar{
+    font: bold 1.2vw Arial;
+    text-decoration: none;
+    color:#ffffff;
+    position: fixed;
+    padding: 2.5vw 0 0 90vw;
+}
