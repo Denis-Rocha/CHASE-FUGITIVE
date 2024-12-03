@@ -35,7 +35,7 @@
 }
 
 .img_int{
-    width: 16vw;
+    width: 100%;
     display: flex;
     opacity: 0.8;
 }
