@@ -1122,9 +1122,12 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/Creditos.unity",
+                "Assets/Scenes/Cutscene1.unity",
+                "Assets/Scenes/Cutscene2.unity",
                 "Assets/Scenes/FASE1.unity",
                 "Assets/Scenes/FASE2.unity",
                 "Assets/Scenes/FASE3.unity",
+                "Assets/Scenes/FimDeJogo.unity",
                 "Assets/Scenes/MenuPrincipal.unity"
             ]
         },
